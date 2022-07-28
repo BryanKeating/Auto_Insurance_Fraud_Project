@@ -2,7 +2,7 @@
 ---
 Technical Lead - Bryan Keating 
 
-Readme and Presentation Lead - John Bruemmer
+Readme and Presentation - John Bruemmer
 
 ## Overview 
 According to Verisk Analytics, auto insurance fraud is a $29 billion problem in the United States; the FBI beleives this number may be closer to $40 billion. Still, others estimate that insurance fraud costs Americans up to $80 billion each year.
